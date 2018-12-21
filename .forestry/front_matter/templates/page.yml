@@ -6,3 +6,5 @@ fields:
 - type: text
   name: foo
   label: Foo
+pages:
+- content/bar.md
